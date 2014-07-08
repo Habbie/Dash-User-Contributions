@@ -1,0 +1,10 @@
+{
+    "name": "Hydra",
+    "version": "1.0.0b10/d8f7772135",
+    "archive": "Hydra.tgz",
+    "author": {
+        "name": "Peter van Dijk",
+        "link": "https://github.com/Habbie"
+    },
+    "aliases": [],
+}
